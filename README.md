@@ -1,1 +1,1 @@
-It's an experimental portfolio site.
+It's a portfolio site.
